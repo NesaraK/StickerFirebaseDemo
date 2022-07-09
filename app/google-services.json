@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699533252463",
+    "firebase_url": "https://fir-demo-5eb22-default-rtdb.firebaseio.com",
+    "project_id": "fir-demo-5eb22",
+    "storage_bucket": "fir-demo-5eb22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699533252463:android:72ab7860bc264dc233fa9a",
+        "android_client_info": {
+          "package_name": "edu.neu.madcourse.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699533252463-1mvma3dd24o12mljpcv1rul7p7tbkmps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGBcyB-2p1W4EXmzfx08yJVh66cjgOeLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699533252463-1mvma3dd24o12mljpcv1rul7p7tbkmps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
